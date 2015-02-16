@@ -1,0 +1,40 @@
+#AREA 0 3 Klomp TestArea
+#RESET A slight breeze picks up.
+#0
+title Limbo~
+desc The moaning of lost souls deafens you as you look around
+attempting to find an exit. You can see a light coming from
+the ceiling.~
+aff 00000000
+sec 0
+#Exit 8 1 000 0
+~
+~
+S
+#1
+title Basement~
+desc It is very dank and dark. The walls are covered with slime.
+Following the walls you find an exit to the north!~
+aff 00000000
+sec 0
+#Exit 0 2 000 0
+Something materializes off in the distance~
+somewhere~
+#Exit 9 0 000 0
+~
+~
+#Ex
+something~
+It's emmitting a bright light of some sort.~
+S
+#2
+title Basement~
+desc Feeling along the wet walls you find out that there is
+only the exit back to the south.~
+aff 00000000
+sec 0
+#Exit 1 1 000 0
+~
+~
+S
+#$

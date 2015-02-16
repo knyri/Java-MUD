@@ -1,0 +1,17 @@
+#OBJ 1
+#0
+type light
+name ball light~
+ldesc A bright ball of light floats here.~
+sdesc A bright ball of light~
+desc ~
+aff 0000111
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+S
+#$

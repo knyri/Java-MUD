@@ -1,0 +1,30 @@
+#PLAYER
+name admin
+pass admin
+attr 19 10 20 16 15 14 20
+exp 0
+level 115
+imm 1
+align 0
+favor 0
+room 0 0
+class Peasant
+race Human
+sex 1
+aff 0000000000000
+hp 32000 32000
+mp 900 900
+mv 1000 1000
+mkills 0
+mdeaths 0
+pkills 0
+pdeaths 0
+position 3
+title is the Master of this Realm.~
+bank 0
+gold 0
+bio 
+I rule this place.
+What else is there to know?~
+desc Tall dark and handsome.., A bit scary.~
+#END

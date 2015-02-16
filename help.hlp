@@ -1,0 +1,67 @@
+#0 commands
+&rCharacter.info:&g
+affect   equipment    inventory    prompt    score   who
+whois    time         colorize     help
+&rCharacter.movement:&g
+north    northwest    northeast
+south    southwest    southeast
+east     west         up   down
+enter    leave
+&rCharacter.interact:&g
+chat    say
+get     drop    wear    remove
+look    glance
+quit    save
+&rCharacter.immortal:&g
+force  goto    make    pset    reboot
+#ENDH
+#0 affect
+&wSyntax: affect, affected by
+Shorthand: &gaff, aff by&W
+
+Shows a list of spells/skills currently affecting the player.
+Affect shows active spells/skills with a time limit.
+Affected by shows active spells/skills with no limit.
+#ENDH
+#0 equipment
+&wSyntax: equipment
+Shorthand: &geq&W
+
+Shows what the player is currently wearing.
+#ENDH
+#0 inventory
+&wSyntax: inventory
+Shorthand: &ginv&W
+
+Shows what the player is currently carrying.
+#ENDH
+#0 prompt
+&wSyntax: prompt, prompt <string>
+&W
+Prompt will show what the player's prompt is currently set to.
+Prompt <string> will set the player's prompt to <string>.
+
+&YTokens:&g
+ Preceded by %
+ Lowercase = Current Value
+ Uppercase = Max Value
+ h = hp   m = mn/bp   v = mv
+ f = fvr  g = gld     b = bank
+ a = al   r = rm V#   x = exp
+ X = tnl  i = winvlvl F = room flags
+ O = opponent hp%
+&YColors:&g
+ preceded by &
+ Lowercase = Light
+ x = &xblack&g  g = green&g  b = &bblue&g
+ X = &X  "&g    G =   &G"    B =  &B"&g
+ c = &ccyan&g   r = &rred&g    p = &ppurple&g
+ C =  &C"&g     R =  &R"&g     P =   &P"&g
+ y = &yyellow&g w = &wwhite&g
+ Y =   &Y"&g    W =   &W"
+Example:
+ <&/p%h/%Hhp &/c%m/%Mmn &/w%Xtnl>
+becomes
+ <&p25/30hp &c12/15 &w60021tnl>
+#ENDH
+#END

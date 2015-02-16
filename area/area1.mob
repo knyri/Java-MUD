@@ -1,0 +1,20 @@
+#MOB 1
+#0
+name pirobird
+attr 20 20 20 20 20 20 20
+exp 0
+level 110
+imm 1
+align 0
+favor 0
+class Peasant
+race Human
+sex 0
+hp 30000 30000
+mp 10 10
+mv 150 150
+position 3
+sdesc Piro the master mob~
+ldesc A domineering bird pecks at your puny existance.~
+S
+#END

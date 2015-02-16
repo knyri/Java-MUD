@@ -1,0 +1,220 @@
+[Tue Apr 22 14:55:54 EDT 2008] Error in load_areas():java.io.FileNotFoundException: area\area.lst (The system cannot find the path specified)
+[Tue Apr 22 14:58:00 EDT 2008] Error in load_areas():java.io.FileNotFoundException: area\area.lst (The system cannot find the path specified)
+[Tue Apr 22 15:01:32 EDT 2008] Reading Area List...
+[Tue Apr 22 15:01:32 EDT 2008] Reading area: area1:0
+[Tue Apr 22 15:01:32 EDT 2008] Creating Area Object...
+[Tue Apr 22 15:01:32 EDT 2008] Adding exit up from room [0][0] to [0][1]
+[Tue Apr 22 15:01:32 EDT 2008] Adding Room [0][0]
+[Tue Apr 22 15:01:32 EDT 2008] Adding exit north from room [0][1] to [0][2]
+[Tue Apr 22 15:01:32 EDT 2008] Adding exit down from room [0][1] to [0][0]
+[Tue Apr 22 15:01:32 EDT 2008] Adding Room [0][1]
+[Tue Apr 22 15:01:32 EDT 2008] Adding exit south from room [0][2] to [0][1]
+[Tue Apr 22 15:01:32 EDT 2008] Adding Room [0][2]
+[Tue Apr 22 15:01:32 EDT 2008] Adding Area to List...
+[Tue Apr 22 15:01:32 EDT 2008] Reading Objects
+[Tue Apr 22 15:01:32 EDT 2008] Adding Object: 0,0
+[Tue Apr 22 15:01:32 EDT 2008] Reading Mobs
+[Tue Apr 22 15:01:32 EDT 2008] Adding Mob 0,0
+[Tue Apr 22 15:01:32 EDT 2008] Reading Resets
+[Tue Apr 22 15:13:36 EDT 2008] Reading Area List...
+[Tue Apr 22 15:13:36 EDT 2008] Reading area: area1:0
+[Tue Apr 22 15:13:36 EDT 2008] Creating Area Object...
+[Tue Apr 22 15:13:36 EDT 2008] Adding exit up from room [0][0] to [0][1]
+[Tue Apr 22 15:13:36 EDT 2008] Adding Room [0][0]
+[Tue Apr 22 15:13:36 EDT 2008] Adding exit north from room [0][1] to [0][2]
+[Tue Apr 22 15:13:36 EDT 2008] Adding exit down from room [0][1] to [0][0]
+[Tue Apr 22 15:13:36 EDT 2008] Adding Room [0][1]
+[Tue Apr 22 15:13:36 EDT 2008] Adding exit south from room [0][2] to [0][1]
+[Tue Apr 22 15:13:36 EDT 2008] Adding Room [0][2]
+[Tue Apr 22 15:13:36 EDT 2008] Adding Area to List...
+[Tue Apr 22 15:13:36 EDT 2008] Reading Objects
+[Tue Apr 22 15:13:36 EDT 2008] Adding Object: 0,0
+[Tue Apr 22 15:13:36 EDT 2008] Reading Mobs
+[Tue Apr 22 15:13:36 EDT 2008] Adding Mob 0,0
+[Tue Apr 22 15:13:36 EDT 2008] Reading Resets
+[Tue Apr 22 15:15:08 EDT 2008] Reading Area List...
+[Tue Apr 22 15:15:08 EDT 2008] Reading area: area1:0
+[Tue Apr 22 15:15:08 EDT 2008] Creating Area Object...
+[Tue Apr 22 15:15:08 EDT 2008] Adding exit up from room [0][0] to [0][1]
+[Tue Apr 22 15:15:08 EDT 2008] Adding Room [0][0]
+[Tue Apr 22 15:15:08 EDT 2008] Adding exit north from room [0][1] to [0][2]
+[Tue Apr 22 15:15:08 EDT 2008] Adding exit down from room [0][1] to [0][0]
+[Tue Apr 22 15:15:08 EDT 2008] Adding Room [0][1]
+[Tue Apr 22 15:15:08 EDT 2008] Adding exit south from room [0][2] to [0][1]
+[Tue Apr 22 15:15:08 EDT 2008] Adding Room [0][2]
+[Tue Apr 22 15:15:08 EDT 2008] Adding Area to List...
+[Tue Apr 22 15:15:08 EDT 2008] Reading Objects
+[Tue Apr 22 15:15:08 EDT 2008] Adding Object: 0,0
+[Tue Apr 22 15:15:08 EDT 2008] Reading Mobs
+[Tue Apr 22 15:15:08 EDT 2008] Adding Mob 0,0
+[Tue Apr 22 15:15:09 EDT 2008] Reading Resets
+[Sat Feb 14 18:20:45 EST 2015] Reading Area List...
+[Sat Feb 14 18:20:45 EST 2015] Reading area: area1:0
+[Sat Feb 14 18:20:45 EST 2015] Creating Area Object...
+[Sat Feb 14 18:20:45 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sat Feb 14 18:20:45 EST 2015] Adding Room [0][0]
+[Sat Feb 14 18:20:45 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sat Feb 14 18:20:45 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sat Feb 14 18:20:45 EST 2015] Adding Room [0][1]
+[Sat Feb 14 18:20:45 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sat Feb 14 18:20:45 EST 2015] Adding Room [0][2]
+[Sat Feb 14 18:20:45 EST 2015] Adding Area to List...
+[Sat Feb 14 18:20:45 EST 2015] Reading Objects
+[Sat Feb 14 18:22:47 EST 2015] Reading Area List...
+[Sat Feb 14 18:22:47 EST 2015] Reading area: area1:0
+[Sat Feb 14 18:22:47 EST 2015] Creating Area Object...
+[Sat Feb 14 18:22:47 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sat Feb 14 18:22:47 EST 2015] Adding Room [0][0]
+[Sat Feb 14 18:22:47 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sat Feb 14 18:22:47 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sat Feb 14 18:22:47 EST 2015] Adding Room [0][1]
+[Sat Feb 14 18:22:47 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sat Feb 14 18:22:47 EST 2015] Adding Room [0][2]
+[Sat Feb 14 18:22:47 EST 2015] Adding Area to List...
+[Sat Feb 14 18:22:47 EST 2015] Reading Objects
+[Sat Feb 14 18:22:47 EST 2015] Adding Object: 0,0
+[Sat Feb 14 18:22:47 EST 2015] Reading Mobs
+[Sat Feb 14 18:22:47 EST 2015] Adding Mob 0,0
+[Sat Feb 14 18:22:47 EST 2015] Reading Resets
+[Sat Feb 14 18:32:07 EST 2015] Reading Area List...
+[Sat Feb 14 18:32:07 EST 2015] Reading area: area1:0
+[Sat Feb 14 18:32:07 EST 2015] Creating Area Object...
+[Sat Feb 14 18:32:07 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sat Feb 14 18:32:07 EST 2015] Adding Room [0][0]
+[Sat Feb 14 18:32:07 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sat Feb 14 18:32:07 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sat Feb 14 18:32:07 EST 2015] Adding Room [0][1]
+[Sat Feb 14 18:32:07 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sat Feb 14 18:32:07 EST 2015] Adding Room [0][2]
+[Sat Feb 14 18:32:07 EST 2015] Adding Area to List...
+[Sat Feb 14 18:32:07 EST 2015] Reading Objects
+[Sat Feb 14 18:32:07 EST 2015] Adding Object: 0,0
+[Sat Feb 14 18:32:07 EST 2015] Reading Mobs
+[Sat Feb 14 18:32:07 EST 2015] Adding Mob 0,0
+[Sat Feb 14 18:32:07 EST 2015] Reading Resets
+[Sat Feb 14 18:35:02 EST 2015] Reading Area List...
+[Sat Feb 14 18:35:02 EST 2015] Reading area: area1:0
+[Sat Feb 14 18:35:02 EST 2015] Creating Area Object...
+[Sat Feb 14 18:35:02 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sat Feb 14 18:35:02 EST 2015] Adding Room [0][0]
+[Sat Feb 14 18:35:02 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sat Feb 14 18:35:02 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sat Feb 14 18:35:02 EST 2015] Adding Room [0][1]
+[Sat Feb 14 18:35:02 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sat Feb 14 18:35:02 EST 2015] Adding Room [0][2]
+[Sat Feb 14 18:35:02 EST 2015] Adding Area to List...
+[Sat Feb 14 18:35:02 EST 2015] Reading Objects
+[Sat Feb 14 18:35:02 EST 2015] Adding Object: 0,0
+[Sat Feb 14 18:35:02 EST 2015] Reading Mobs
+[Sat Feb 14 18:35:02 EST 2015] Adding Mob 0,0
+[Sat Feb 14 18:35:02 EST 2015] Reading Resets
+[Sat Feb 14 18:49:29 EST 2015] Reading Area List...
+[Sat Feb 14 18:49:29 EST 2015] Reading area: area1:0
+[Sat Feb 14 18:49:29 EST 2015] Creating Area Object...
+[Sat Feb 14 18:49:29 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sat Feb 14 18:49:29 EST 2015] Adding Room [0][0]
+[Sat Feb 14 18:49:29 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sat Feb 14 18:49:29 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sat Feb 14 18:49:29 EST 2015] Adding Room [0][1]
+[Sat Feb 14 18:49:29 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sat Feb 14 18:49:29 EST 2015] Adding Room [0][2]
+[Sat Feb 14 18:49:29 EST 2015] Adding Area to List...
+[Sat Feb 14 18:49:29 EST 2015] Reading Objects
+[Sat Feb 14 18:49:29 EST 2015] Adding Object: 0,0
+[Sat Feb 14 18:49:29 EST 2015] Reading Mobs
+[Sat Feb 14 18:49:29 EST 2015] Adding Mob 0,0
+[Sat Feb 14 18:49:29 EST 2015] Reading Resets
+[Sat Feb 14 18:50:23 EST 2015] Reading Area List...
+[Sat Feb 14 18:50:23 EST 2015] Reading area: area1:0
+[Sat Feb 14 18:50:23 EST 2015] Creating Area Object...
+[Sat Feb 14 18:50:23 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sat Feb 14 18:50:23 EST 2015] Adding Room [0][0]
+[Sat Feb 14 18:50:23 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sat Feb 14 18:50:23 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sat Feb 14 18:50:23 EST 2015] Adding Room [0][1]
+[Sat Feb 14 18:50:23 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sat Feb 14 18:50:23 EST 2015] Adding Room [0][2]
+[Sat Feb 14 18:50:23 EST 2015] Adding Area to List...
+[Sat Feb 14 18:50:23 EST 2015] Reading Objects
+[Sat Feb 14 18:50:23 EST 2015] Adding Object: 0,0
+[Sat Feb 14 18:50:23 EST 2015] Reading Mobs
+[Sat Feb 14 18:50:23 EST 2015] Adding Mob 0,0
+[Sat Feb 14 18:50:23 EST 2015] Reading Resets
+[Sat Feb 14 18:54:40 EST 2015] Reading Area List...
+[Sat Feb 14 18:54:40 EST 2015] Reading area: area1:0
+[Sat Feb 14 18:54:40 EST 2015] Creating Area Object...
+[Sat Feb 14 18:54:40 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sat Feb 14 18:54:40 EST 2015] Adding Room [0][0]
+[Sat Feb 14 18:54:40 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sat Feb 14 18:54:40 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sat Feb 14 18:54:40 EST 2015] Adding Room [0][1]
+[Sat Feb 14 18:54:40 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sat Feb 14 18:54:40 EST 2015] Adding Room [0][2]
+[Sat Feb 14 18:54:40 EST 2015] Adding Area to List...
+[Sat Feb 14 18:54:40 EST 2015] Reading Objects
+[Sat Feb 14 18:54:40 EST 2015] Adding Object: 0,0
+[Sat Feb 14 18:54:40 EST 2015] Reading Mobs
+[Sat Feb 14 18:54:40 EST 2015] Adding Mob 0,0
+[Sat Feb 14 18:54:40 EST 2015] Reading Resets
+[Sat Feb 14 18:55:56 EST 2015] Reading Area List...
+[Sat Feb 14 18:55:56 EST 2015] Reading area: area1:0
+[Sat Feb 14 18:55:56 EST 2015] Creating Area Object...
+[Sat Feb 14 18:55:56 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sat Feb 14 18:55:56 EST 2015] Adding Room [0][0]
+[Sat Feb 14 18:55:56 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sat Feb 14 18:55:56 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sat Feb 14 18:55:56 EST 2015] Adding Room [0][1]
+[Sat Feb 14 18:55:56 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sat Feb 14 18:55:56 EST 2015] Adding Room [0][2]
+[Sat Feb 14 18:55:56 EST 2015] Adding Area to List...
+[Sat Feb 14 18:55:56 EST 2015] Reading Objects
+[Sat Feb 14 18:55:56 EST 2015] Adding Object: 0,0
+[Sat Feb 14 18:55:56 EST 2015] Reading Mobs
+[Sat Feb 14 18:55:56 EST 2015] Adding Mob 0,0
+[Sat Feb 14 18:55:56 EST 2015] Reading Resets
+[Sun Feb 15 17:44:47 EST 2015] Reading Area List...
+[Sun Feb 15 17:44:48 EST 2015] Reading area: area1:0
+[Sun Feb 15 17:44:48 EST 2015] Creating Area Object...
+[Sun Feb 15 17:44:48 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sun Feb 15 17:44:48 EST 2015] Adding Room [0][0]
+[Sun Feb 15 17:44:48 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sun Feb 15 17:44:48 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sun Feb 15 17:44:48 EST 2015] Adding Room [0][1]
+[Sun Feb 15 17:44:48 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sun Feb 15 17:44:48 EST 2015] Adding Room [0][2]
+[Sun Feb 15 17:44:48 EST 2015] Adding Area to List...
+[Sun Feb 15 17:44:48 EST 2015] Reading Objects
+[Sun Feb 15 17:44:48 EST 2015] Adding Object: 0,0
+[Sun Feb 15 17:44:48 EST 2015] Reading Mobs
+[Sun Feb 15 17:47:41 EST 2015] Reading Area List...
+[Sun Feb 15 17:47:41 EST 2015] Reading area: area1:0
+[Sun Feb 15 17:47:41 EST 2015] Creating Area Object...
+[Sun Feb 15 17:47:41 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sun Feb 15 17:47:41 EST 2015] Adding Room [0][0]
+[Sun Feb 15 17:47:41 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sun Feb 15 17:47:41 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sun Feb 15 17:47:41 EST 2015] Adding Room [0][1]
+[Sun Feb 15 17:47:41 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sun Feb 15 17:47:41 EST 2015] Adding Room [0][2]
+[Sun Feb 15 17:47:41 EST 2015] Adding Area to List...
+[Sun Feb 15 17:47:41 EST 2015] Reading Objects
+[Sun Feb 15 17:47:41 EST 2015] Adding Object: 0,0
+[Sun Feb 15 17:47:41 EST 2015] Reading Mobs
+[Sun Feb 15 17:47:41 EST 2015] Adding Mob 0,0
+[Sun Feb 15 17:47:41 EST 2015] Reading Resets
+[Sun Feb 15 18:07:44 EST 2015] Reading Area List...
+[Sun Feb 15 18:07:44 EST 2015] Reading area: area1:0
+[Sun Feb 15 18:07:44 EST 2015] Creating Area Object...
+[Sun Feb 15 18:07:44 EST 2015] Adding exit up from room [0][0] to [0][1]
+[Sun Feb 15 18:07:44 EST 2015] Adding Room [0][0]
+[Sun Feb 15 18:07:44 EST 2015] Adding exit north from room [0][1] to [0][2]
+[Sun Feb 15 18:07:44 EST 2015] Adding exit down from room [0][1] to [0][0]
+[Sun Feb 15 18:07:44 EST 2015] Adding Room [0][1]
+[Sun Feb 15 18:07:44 EST 2015] Adding exit south from room [0][2] to [0][1]
+[Sun Feb 15 18:07:44 EST 2015] Adding Room [0][2]
+[Sun Feb 15 18:07:44 EST 2015] Adding Area to List...
+[Sun Feb 15 18:07:44 EST 2015] Reading Objects
+[Sun Feb 15 18:07:44 EST 2015] Adding Object: 0,0
+[Sun Feb 15 18:07:44 EST 2015] Reading Mobs
+[Sun Feb 15 18:07:44 EST 2015] Adding Mob 0,0
+[Sun Feb 15 18:07:44 EST 2015] Reading Resets
